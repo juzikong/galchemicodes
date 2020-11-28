@@ -1,4 +1,4 @@
-# galchemicodes
+# GALaxy CHEMIcal evolution CODES
 
 This is a summary of the galaxy chemical evolution models.
 
